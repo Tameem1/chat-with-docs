@@ -5,7 +5,7 @@ import torch
 import subprocess
 import streamlit as st
 #from run_localGPT import load_model
-from langchain.vectorstores import Chroma
+from langchain.vectorstores.chroma import Chroma
 from constants import CHROMA_SETTINGS, EMBEDDING_MODEL_NAME, PERSIST_DIRECTORY, MODEL_ID, MODEL_BASENAME
 from langchain.embeddings import HuggingFaceInstructEmbeddings
 from langchain.chains import RetrievalQA
