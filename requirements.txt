@@ -30,5 +30,6 @@ openpyxl
 
 # Fireworks
 langchain-fireworks
+langchain-cli
 
 pysqlite3-binary
