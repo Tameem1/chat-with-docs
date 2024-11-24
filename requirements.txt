@@ -28,7 +28,7 @@ requests
 
 # Streamlit related
 streamlit
-streamlit-extras==0.5.0
+streamlit-extras
 
 # Excel File Manipulation
 openpyxl
