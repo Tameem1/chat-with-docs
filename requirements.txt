@@ -31,6 +31,9 @@ streamlit-extras==0.5.0
 openpyxl
 
 # Fireworks
-langchain-fireworks
+langchain-fireworks==0.2.5
+langchain-cli==0.0.33
+Langchain-community==0.3.8
+langchain-core==0.3.21
 
 pysqlite3-binary
