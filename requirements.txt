@@ -36,4 +36,6 @@ langchain-cli==0.0.33
 Langchain-community==0.3.8
 langchain-core==0.3.21
 
+pydantic==2.10.1
+
 pysqlite3-binary
