@@ -31,7 +31,6 @@ streamlit-extras
 openpyxl
 
 # Fireworks
-langchain-cli
 langchain-fireworks
 
 pysqlite3-binary
