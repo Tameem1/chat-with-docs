@@ -85,8 +85,7 @@ if "LLM" not in st.session_state:
         api_key="fw_3ZfGXeDhjJfUxVHUVRBDfMeU",
         model="accounts/fireworks/models/qwen2p5-coder-32b-instruct",
         temperature=0.7,
-        max_tokens=1500,
-        top_p=1.0,
+        max_tokens=1500
     )
     st.session_state["LLM"] = LLM
 
