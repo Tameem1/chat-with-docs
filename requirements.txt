@@ -1,6 +1,6 @@
 # Natural Language Processing
 torch
-langchain
+langchain==0.0.190
 chromadb==0.4.6
 pdfminer.six==20221105
 InstructorEmbedding
