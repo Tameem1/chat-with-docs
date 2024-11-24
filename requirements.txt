@@ -1,5 +1,5 @@
 # Natural Language Processing
-torch==1.13.0
+torch==2.2.0
 langchain
 chromadb==0.4.6
 pdfminer.six==20221105
